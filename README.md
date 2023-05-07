@@ -39,6 +39,6 @@
 
 ## Deployment
 
-> Application is deployed through vercel: 
+> Application is deployed with Render: 
 
-- [WeLoveMovies](https://vercel.com)
+- [WeLoveMovies](https://we-love-movies-ioeb.onrender.com)
